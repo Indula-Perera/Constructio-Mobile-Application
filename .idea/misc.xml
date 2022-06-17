@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/drawable/custom_edittext.xml" value="0.34814814814814815" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_add_csite.xml" value="0.22" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_add_csite_type.xml" value="0.33" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_add_masonry.xml" value="0.3625" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_add_masonry2.xml" value="0.3625" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_add_supervisor.xml" value="0.25" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_add_supervisor2.xml" value="0.3625" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_admin_main.xml" value="0.5" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_admin_sign_in.xml" value="0.33" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_attendance.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_calculate_salary.xml" value="0.2" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_calculate_salary_type.xml" value="0.25" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_home.xml" value="0.43123209169054444" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_login_se.xml" value="0.27898550724637683" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_main.xml" value="0.29846014492753625" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_mark_attendance.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_mdelete.xml" value="0.3625" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_mdelete2.xml" value="0.3625" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_mview.xml" value="0.3625" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_sdelete.xml" value="0.3625" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_sdelete2.xml" value="0.3625" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_smdelete.xml" value="0.3625" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_smview.xml" value="0.33" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_supervisor_main.xml" value="0.33" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_supervosor_sign_in.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_sview.xml" value="0.3625" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_sview_ordelete.xml" value="0.3625" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_update_masonry.xml" value="0.22" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/activity_update_supaervisor.xml" value="0.3625" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/att_row.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/c_site_row.xml" value="0.5" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/masonry_row.xml" value="0.4218533886583679" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/salary_row.xml" value="0.2" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/layout/supervisor_row.xml" value="0.33" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/INDUL/Desktop/WJContractors/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21979166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
